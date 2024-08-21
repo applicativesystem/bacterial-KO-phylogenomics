@@ -1,10 +1,8 @@
-# Gaurav Sablok
-# Thulani Makhalanyane
-# Senior Postdoctoral Fellow
-# Faculty of Natural and Agricultural Sciences
-# Room 7-35, Agricultural Sciences Building
-# University of Pretoria, Private Bag X20
-# Hatfield 0028, South Africa
+#! usr/bin/env python3
+# Author Gaurav Sablok
+# Date 2024-8-21
+# Universitat Potsdam
+
 """
 A python function for the normalization of the functional 
 gene overlap and gene numbers
